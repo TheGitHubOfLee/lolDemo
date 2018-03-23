@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5823d812-eecf-47f7-8f4e-2ccc8c28d234++6868",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5823d812-eecf-47f7-8f4e-2ccc8c28d234++6868" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5823d812-eecf-47f7-8f4e-2ccc8c28d234++6868" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3CA4CCB8-AEF6-430E-B1D5-62C315ACEA9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5823d812-eecf-47f7-8f4e-2ccc8c28d234++6868" : "LLWTeamwork\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LLWTeamwork",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LLWTeamwork.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/waigeclass46",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5823d812-eecf-47f7-8f4e-2ccc8c28d234++6868"
+    }
+  ]
+}
